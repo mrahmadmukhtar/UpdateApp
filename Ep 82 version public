@@ -1,5 +1,5 @@
 {
-  "expired": false,
+  "expired": true,
   "maintenance": false,
   "minAppVersion": "1.0",
   "maxAppVersion": "50.0",
