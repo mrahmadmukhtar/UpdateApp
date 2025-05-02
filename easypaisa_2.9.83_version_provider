@@ -1,0 +1,10 @@
+{
+  "expired": false,
+  "maintenance": false,
+  "minAppVersion": "2.9.83",
+  "maxAppVersion": "2.9.83",
+  "minOSVersion": 21,
+  "maxOSVersion": 35,
+  "expectedPackageName": "pk.com.telenor.phoenix",
+  "expectedApkHash": "E89B158E4BCF988EBD09EB83F5378E87"
+}
