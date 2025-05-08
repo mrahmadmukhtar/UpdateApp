@@ -19,7 +19,7 @@
   "cardCornerRadius": 40,
   "cardElevation": 10,
   "buttonCornerRadius": 50,
-  "buttonElevation": 6,
+  "buttonElevation": 3,
   "overlayColor": "#4D000000",
   "offlineErrorTitle": "FATAL ERROR: UPDATE CHECK FAILED",
   "offlineErrorMessage": "Unable to retrieve update info from the server.\nEither your network is down or your endpoint is busted.\nFix your connection or get your code together, developer!",
