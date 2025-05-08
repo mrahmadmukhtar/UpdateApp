@@ -1,6 +1,6 @@
 
 {
-  "versionCode": "2", 
+  "versionCode": "1", 
   "versionName": "2.9.75",
   "changelog": "- New feature: Modern, full-screen update UI with professional header layout\n- Automatically adopts app logo, name, and version\n- Compact 'What's New' section with detailed text\n- Vertically stacked buttons with ample side padding\n- Bug fixes and performance improvements",
   "downloadUrl": "https://example.com/yourapp/download",
@@ -29,15 +29,15 @@
   "forceExitErrorTitle": "Force Exit Required",
   "forceExitErrorMessage": "An update or system policy requires the application to exit immediately.",
   "announcement": {
-    "visible": false,
+    "visible": true,
     "title": "Announcement",
     "message": "A single blow must destroy the enemyâ€¦ without regard of lossesâ€¦ a gigantic all-destroying blow.",
     "link": "https://example.com/announcement",
     "linkButtonEnabled": false,
     "linkButtonText": "Learn More",
-    "cancelButtonEnabled": false,
+    "cancelButtonEnabled": true,
     "cancelButtonText": "Dismiss",
-    "exitButtonEnabled": true,
+    "exitButtonEnabled": false,
     "exitButtonText": "Exit"
   }
 }
