@@ -1,7 +1,7 @@
 {
   "versionCode": "2",
   "versionName": "2.9.83",
-  "changelog": "- easypaisa version 2.9.83 is now available, incorporating user-requested enhancements.\n- An advanced authentication mechanism has been implemented, restricting device usage to designated locations for enhanced security.\n- The SplashActivity has been removed to optimize performance and reduce application loading times.\n- The Authentication User Interface has been refined to provide a seamless and intuitive user experience.",
+  "changelog": "- Easypaisa version 2.9.83 is now available, just as requested. We've introduced a new authentication feature that enhances device security in specific locations. The SplashActivity has been removed, so the app now launches instantly. Additionally, the authentication interface has been redesigned for a cleaner, more user-friendly experience.\n\n -MorphixMods",
   "downloadUrl": "https://gofile.io/d/G2i2TF",
   "encryptedUrl": "",
   "cancelable": true,
