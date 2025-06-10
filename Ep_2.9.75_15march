@@ -12,7 +12,7 @@
   "buttonTextColor": "#FFFFFF",
   "iconUrl": "",
   "toast": "A new update is available!",
-  "toastRepeatCount": 0,
+  "toastRepeatCount": 1,
   "forceExit": false,
   "forceExitCount": 5,
   "blockApps": "com.example.forbidden, com.example.unwanted",
