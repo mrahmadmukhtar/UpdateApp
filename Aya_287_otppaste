@@ -2,7 +2,7 @@
   "expired": false,
   "maintenance": false,
   "minAppVersion": "1.0",
-  "maxAppVersion": "50.0",
+  "maxAppVersion": "1.0",
   "minOSVersion": 21,
   "maxOSVersion": 35,
   "expectedPackageName": "pk.com.telenor.phoenix",
