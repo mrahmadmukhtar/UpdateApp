@@ -1,6 +1,6 @@
 {
   "expired": false,
-  "maintenance": false,
+  "maintenance": true,
   "minAppVersion": "3.0",
   "maxAppVersion": "50.0",
   "minOSVersion": 21,
