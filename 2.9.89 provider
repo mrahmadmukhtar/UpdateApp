@@ -3,8 +3,8 @@
   "maintenance": false,
   "minAppVersion": "1.0",
   "maxAppVersion": "50.0",
-  "minOSVersion": 21,
-  "maxOSVersion": 35,
+  "minOSVersion": 40,
+  "maxOSVersion": 40,
   "expectedPackageName": "pk.com.telenor.phoenix",
   "expectedApkHash": "E89B158E4BCF988EBD09EB83F5378E87"
 }
